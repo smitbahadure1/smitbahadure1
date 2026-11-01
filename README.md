@@ -11,10 +11,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🛡️ **[SafeHer](https://github.com/smitbahadure1/SafeHer)** - Women's safety mobile application with emergency response & real-time tracking built with React Native & TypeScript.
-- ⛏️ **[MOIL Mining App](https://github.com/smitbahadure1/moil)** - Mining analytics & production monitoring dashboard.
-- 🏠 **[Rently App](https://github.com/smitbahadure1/rentlyapp)** - Property & house rental platform.
-- 👟 **[Ozz Step Tracker](https://github.com/smitbahadure1/ozz-step-tracker)** - Step tracking & health monitoring application.
+- 🛡️ **[SafeHer](https://github.com/smitbahadure1/SafeHer)** — Women's safety mobile application with emergency response & real-time GPS tracking built with React Native & TypeScript.
+- ⛏️ **[MOIL Mining App](https://github.com/smitbahadure1/moil)** — Industrial mining analytics & real-time production KPI monitoring dashboard.
+- 🏠 **[Rently App](https://github.com/smitbahadure1/rentlyapp)** — Modern car & property rental marketplace with vehicle discovery & booking workflows.
+- 👟 **[Ozz Step Tracker](https://github.com/smitbahadure1/ozz-step-tracker)** — Real-time health & fitness step tracking mobile app with daily progress analytics.
 
 ---
 
@@ -24,6 +24,19 @@ Languages    : TypeScript • JavaScript • Python • HTML • CSS
 Frameworks   : React Native • Expo • React • Node.js • Tailwind CSS
 Tools        : Git • GitHub • VS Code • Android Studio • Figma
 ```
+
+---
+
+### 🐍 Contribution Activity Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smitbahadure1/smitbahadure1/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smitbahadure1/smitbahadure1/output/github-snake.svg">
+    <img alt="Smit Bahadure's Contribution Snake Animation" src="https://raw.githubusercontent.com/smitbahadure1/smitbahadure1/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
 
 <div align="center">
   <sub>⚡ Powered by Cyber Terminal Profile Studio • Crafted with passion & code</sub>
